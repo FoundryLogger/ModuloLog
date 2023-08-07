@@ -1,0 +1,14 @@
+{
+  "name": "ModuloLog",
+  "title": "Modulo di Log",
+  "description": "Registra le modifiche ai personaggi da parte dei giocatori. Questo modulo richiede un server Express separato per funzionare.",
+  "author": "Matteo Pelladoni",
+  "version": "0.1",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.9",
+  "url": "https://https://github.com/FoundryLogger/ModuloLog", // link to the GitHub repository or documentation
+  "manifest": "https://raw.githubusercontent.com/FoundryLogger/ModuloLog/main/module.json", // link to the manifest file
+  "download": "https://github.com/FoundryLogger/ModuloLog/archive/main.zip", // link to the download
+  "esmodules": ["script/main.js", "server/main.js"],
+  "instructions": "Please follow the installation instructions in the README." // any specific instructions
+}
