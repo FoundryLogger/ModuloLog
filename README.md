@@ -1,5 +1,5 @@
 # ModuloLog
-Record changes to characters on FoundryVTT by players. This module requires a separate Express server to function.
+Record changes to characters player sheet on FoundryVTT by players. This module requires a separate Express server to function.
 
 **Installation and Activation**
 After installing the module within Foundry VTT, activate it like you would with any other module. No specific configurations or customizations are required within Foundry.
@@ -95,7 +95,7 @@ If you do not need an SSL connection, you will have to make some changes to the 
 
 **Lingua Italiana**
 # ModuloLog
-Registra le modifiche ai personaggi su FoundryVTT da parte dei giocatori. Questo modulo richiede un server Express separato per funzionare
+Registra le modifiche alle schede dei personaggi dei giocaotri su FoundryVTT da parte dei giocatori. Questo modulo richiede un server Express separato per funzionare
 
 **Installazione e Attivazione**
 Dopo aver installato il modulo all'interno di Foundry VTT, attivalo come faresti con qualsiasi altro modulo. Non sono richieste configurazioni o personalizzazioni specifiche all'interno di Foundry.
