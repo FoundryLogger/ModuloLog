@@ -91,6 +91,8 @@ If you are using Foundry in SSL mode, you will need to enable the same certifica
 
 If you do not need an SSL connection, you will have to make some changes to the server code. Specifically, you will need to remove the part related to certificates and change the parts from HTTPS to HTTP.
 
+Note
+You must need to be GM to use this module
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Lingua Italiana**
@@ -188,3 +190,5 @@ Se stai utilizzando Foundry in modalità SSL, è necessario abilitare gli stessi
 
 Se non hai bisogno di una connessione SSL, dovrai apportare alcune modifiche al codice del server. In particolare, dovrai rimuovere la parte relativa ai certificati e cambiare le parti da HTTPS a HTTP.
 
+**Note**
+**Devi essere un GM per poter utilizzare questo modulo**
