@@ -5,7 +5,7 @@ const app = express();
 const cors = require('cors');
 
 app.use(cors());
-app.use(express.json());
+app.use(express.json({ limit: '50mb' }));
 
 const logChange = (playerName, field, oldValue, newValue) => {
   const timestamp = new Date().toLocaleString('it-IT');
